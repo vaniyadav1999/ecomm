@@ -1,3 +1,3 @@
 # ecomm
-Ecommerce  My New Template
+Ecommerce  My NewTemplate
 
